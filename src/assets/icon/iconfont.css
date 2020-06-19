@@ -6,9 +6,10 @@
   url('iconfont.ttf?t=1592545410075') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */ url('iconfont.svg?t=1592545410075#iconfont') format('svg'); /* iOS 4.1- */
 }
 
-[class^="ali-icon"], [class*="al-icon"] {
+[class^="ali-icon"], [class*="ali-icon"] {
   font-family: "ali-iconfont" !important;
-  font-size: 20px;
+  vertical-align: middle;
+  font-size: 24px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
